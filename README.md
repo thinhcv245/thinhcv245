@@ -88,40 +88,41 @@
 
 
 ### 📈 Statistics
-<!--
-<a href="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120">
+
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvthk">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvthk&theme=dracula"/>
+          </a>
+        </th>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvthk&">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvthk&theme=dracula"/>
+          </a>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvthk">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvthk&theme=dracula"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvthk">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvthk&theme=dracula"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<a href="https://activity-graph.herokuapp.com/graph?username=cvthk">
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=cvthk&theme=dracula">
 </a>
--->
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvthk">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvthk&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvthk&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvthk&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvthk">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvthk&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvthk">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvthk&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
