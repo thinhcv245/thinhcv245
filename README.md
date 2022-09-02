@@ -28,6 +28,8 @@
 -->
 ## 🛠 Languages and Tools
 
+
+<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?style=flat&logo=csharp" title="JavaScript" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/></span> &nbsp;
