@@ -124,5 +124,5 @@
 
 
 <a href="https://activity-graph.herokuapp.com/graph?username=cvthk">
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=cvthk&theme=dracula">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=cvthk&theme=dracula">
 </a>
