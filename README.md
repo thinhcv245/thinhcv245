@@ -28,14 +28,21 @@
 -->
 ## 🛠 Languages and Tools
 
-
+<!-- <span><img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat-square&logo=C++&logoColor=white" title="C/C++" height="25"/></span> &nbsp; -->
+<span><img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat&logo=C++&logoColor=white" title="C/C++" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/C%20Sharp-282C34?style=flat&logo=csharp" title="C#" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/PHP-black?style=flat&logo=php" title="Hypertext Preprocessor" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" title="Java" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-172c45?style=flat&logo=jquery" title="jQuery" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" title="MySql" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=flat&logo=microsoftsqlserver&logoColor=C8C8C8" title="Microsoft SQL Server" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Android%20Studio-black?style=flat&logo=androidstudio"  title="Android Studio" height="25"/></span> &nbsp;
 <!--
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" title="SASS" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" title="ESLint" height="25"/></span> &nbsp;
