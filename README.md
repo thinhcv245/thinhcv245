@@ -4,7 +4,7 @@
 <h3 align="center">Vietnam </h3>
 -->
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Food Industry](https://hufi.edu.vn/) (HUFI).
+- ✍ I'm a student of: [Ho Chi Minh city University of Industry And Trade](https://huit.edu.vn/) (HUIT).
 
 - 🌱 I’m currently learning **.NET**.
 
