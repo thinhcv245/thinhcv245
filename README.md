@@ -82,8 +82,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvthk&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="cvthk" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=cvthk&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="cvthk" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhcv245&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="thinhcv245" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=thinhcv245&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="thinhcv245" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -101,13 +101,13 @@
     <tbody>
       <tr>
         <th>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvthk">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvthk&theme=dracula"/>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinhcv245">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinhcv245&theme=dracula"/>
           </a>
         </th>
         <th>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvthk&">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvthk&theme=dracula"/>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thinhcv245&">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thinhcv245&theme=dracula"/>
           </a>
         </th>
       </tr>
@@ -115,13 +115,13 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvthk">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvthk&theme=dracula"/>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thinhcv245">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thinhcv245&theme=dracula"/>
           </a>
         </td>
         <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvthk">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvthk&theme=dracula"/>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thinhcv245">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thinhcv245&theme=dracula"/>
           </a>
         </td>
       </tr>
@@ -130,6 +130,6 @@
 </div>
 
 
-<a href="https://activity-graph.herokuapp.com/graph?username=cvthk">
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=cvthk&theme=dracula">
+<a href="https://activity-graph.herokuapp.com/graph?username=thinhcv245">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=thinhcv245&theme=dracula">
 </a>
