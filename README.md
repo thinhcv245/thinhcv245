@@ -1,12 +1,17 @@
-<h1>Hi 👋, I'm Chau Thinh</h1>
+<h1>Hi 👋, I'm Ryan Chau</h1>
 <!--
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Vietnam </h3>
 -->
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Industry And Trade](https://huit.edu.vn/) (HUIT).
+I'm Ryan Chau, a software development engineer with over one year of experience in programming and software development. I specialize in C# programming, I'm constantly learning new skills and technologies to make sure my solutions are cutting-edge and effective.
+I'm eager to continue developing my skills and be part of a team that focuses on creating innovative and meaningful software solutions.
 
-- 🌱 I’m currently learning **.NET**.
+## 🚀 About Me
+
+- 🔭 **Currently:** Developing Angular and .NET applications  
+- 🎓 **Education:** Graduated and currently pursuing a Master's degree in Computer Science  
+- 🌱 **Passion:** Constantly learning and applying new technologies to create efficient and modern solutions
 
 
 ## 📫 How to reach me:
