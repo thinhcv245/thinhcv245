@@ -3,9 +3,10 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Vietnam </h3>
 -->
-
+<p align="justify">
 I'm Ryan Chau, a software development engineer with over one year of experience in programming and software development. I specialize in C# programming, I'm constantly learning new skills and technologies to make sure my solutions are cutting-edge and effective.
 I'm eager to continue developing my skills and be part of a team that focuses on creating innovative and meaningful software solutions.
+</p>
 
 ## 🚀 About Me
 
